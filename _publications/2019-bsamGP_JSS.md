@@ -9,6 +9,6 @@ link: 'https://doi.org/10.18637/jss.v090.i10'
 code: 'https://cran.r-project.org/web/packages/bsamGP/index.html'
 citation: 'Seongil Jo, Taeryon, <b>Beomjo Park</b>, Peter Lenk.
 &nbsp;&nbsp; 
-<i>Journal of Statistical Software.</i> 90(10), 1 - 41., 2019'
+<i>Journal of Statistical Software.</i> 90(10), pp. 1-41, 2019'
 doi: 10.18637/jss.v090.i10
 ---
