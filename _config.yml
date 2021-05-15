@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Beomjo Park / Site Title"
+title                    : "Beomjo Park"
 title_separator          : "-"
 name                     : &name "Beomjo Park"
-description              : &description "personal description"
+description              : &description "Ph.D. in Statistics"
 url                      : https://beomjopark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "beomjopark/beomjopark.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Beomjo Park"
   avatar           : "profile.jfif"
-  bio              : "Ph.D. student @ Carnegie Mellon"
+  bio              : "Ph.D. student in Statistics & Data Science @ CMU"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PnkT7tEAAAAJ"
-  email            : "beomjo@stat.cmu.edu"
+  email            : #"beomjo@stat.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "beomjop"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
