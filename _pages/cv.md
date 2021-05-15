@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+<iframe src="/files/BeomjoPark_CV-Beomjo-Surface.pdf" style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
+
+You can download a PDF copy of my CV [here](/files/BeomjoPark_CV-Beomjo-Surface.pdf).
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -57,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
