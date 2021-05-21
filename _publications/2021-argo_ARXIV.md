@@ -5,7 +5,7 @@ permalink: /publication/2021-argo_ARXIV
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-05-18
 venue: 'arXiv'
-link: 'https://arxiv.org'
+link: 'https://arxiv.org/abs/2105.09707'
 github: 'https://github.com/beomjopark/OHT_analysis'
 citation: '<b>Beomjo Park</b>, Mikael Kuusela, Donata Giglio, Alison Gray.
 &nbsp;&nbsp; 
