@@ -46,7 +46,7 @@ install.packages("bsamGP")
 
 # Ocean Heat Transport (OHT) Interpolation
 
-Reproducible MATLAB code for [OHT interpolation](https://arxiv.org) is accessible at the [Github repository](https://github.com/beomjopark/OHT_analysis). Beginning with [Argo float data from Global Data Assembly Centre](https://www.seanoe.org/data/00311/42182/), provided code allows you to filter data of your interest, estimate the mean and the covariance parameters of the latent local Gaussian process regression model, and generate estimated mean and anomaly fields of ocean heat transport.
+Reproducible MATLAB code for [OHT interpolation](https://arxiv.org/abs/2105.09707) is accessible at the [Github repository](https://github.com/beomjopark/OHT_analysis). Beginning with [Argo float data from Global Data Assembly Centre](https://www.seanoe.org/data/00311/42182/), provided code allows you to filter data of your interest, estimate the mean and the covariance parameters of the latent local Gaussian process regression model, and generate estimated mean and anomaly fields of ocean heat transport.
 
 {% include gallery id="gallery2" %}
 
