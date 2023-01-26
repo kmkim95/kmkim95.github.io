@@ -9,5 +9,5 @@ venue: ''
 #github: 'https://github.com/beomjopark/OHT_analysis'
 citation: '<b>Beomjo Park</b>, Sivaraman Balakrishnan, Larry Wasserman.
 &nbsp;&nbsp; 
-<b>Winner of Statistical Learning and Data Science Student Paper Award</b>'
+<br/><b>Winner of ASA Statistical Learning and Data Science Student Paper Award</b>'
 ---
