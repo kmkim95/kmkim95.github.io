@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://raw.githubusercontent.com/kmkim95/kyungminkim.github.io/master/files/Kyungmin_Kim_CV.pdf" style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
+<iframe src='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmkim95/kyungminkim.github.io/master/files/Kyungmin_Kim_CV.pdf'
+style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
 
-You can download a PDF copy of my CV [here]('https://raw.githubusercontent.com/kmkim95/kyungminkim.github.io/master/files/SG_LM_KAIA_Poster.pdf').
+You can download a PDF copy of my CV [here](https://raw.githubusercontent.com/kmkim95/kyungminkim.github.io/master/files/Kyungmin_Kim_CV.pdf).
 
 <!-- 
 {% include base_path %}
