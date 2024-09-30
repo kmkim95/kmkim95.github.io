@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a fifth-year Ph.D. student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University, Pittsburgh, PA. Current research interests largely lie in the robust statistical inference including how to better accommodate the model misspecification. I am very fortunate to be advised by [Sivaraman Balakrishnan](http://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). I have also been collaborating with oceanographers and [Mikael Kuusela](http://www.stat.cmu.edu/~mkuusela/) on developing statistical framework for large-scale oceanographic data. I am a member of the [Statistical Machine Learning Reading](http://statml.cs.cmu.edu/) group and the [Statistical Methods for the Physical Sciences](http://stat.cmu.edu/stamps/) group.
+I am a first-year M.S./Ph.D. student in the [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) at Pohang University of Science and Technology, Pohang, Korea. Current research interests largely lie in the safe and trustworthy deployment of large language models via principled uncertainty quantification and mitigation methods. I am fortunate to be advised by [Sangdon Park](https://sangdon.github.io/). I am a member of the [Machine Learning](https://ml.postech.ac.kr/) group.
 
-Prior to joining the Carnegie Mellon University, I have worked on wide-ranging applications and extensions in the Bayesian semiparametric regression and Variational inference while pursuing an M.Sc. in Statistics at [Korea University](http://korea.edu) advised by [Taeryon Choi](https://sites.google.com/site/trchoi/home). Hierarchical modeling and fast Variational Bayes approximation to the flexible Bayesian regression framework were the central themes. I earned B.Sc. in Industrial engineering and Statistics at Korea University.
+While pursuing M.S. an in Industrial Management and Engineering at the same university advised by [Minwoo Chae](https://sds.postech.ac.kr/), I have worked on a number of statistical data analysis projects applying Bayesian and computational statistics methodologies. I earned a B.S. in Statistics at Korea University.
 
 
 ### Interests
-- Robust statistical inference
-- Model misspecification
-- Statistical learning theory
-- Nonparametrics
+- Trustworthy Machine Learning
+- Large Language Models
+- Statistical Data Analysis
+- Computational Interaction
