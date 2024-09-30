@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first-year M.S./Ph.D. student in the [Graduate School of AI](https://ai.postech.ac.kr/) and a member of the [Machine Learning Lab](https://ml.postech.ac.kr/) at POSTECH, where I am fortunate to advised by [Sangdon Park](https://sangdon.github.io/). My current research interests largely lie in the safe and trustworthy deployment of large language models.
+I am a first-year M.S./Ph.D. student in the [Graduate School of AI](https://ai.postech.ac.kr/) and a member of the [Machine Learning Lab](https://ml.postech.ac.kr/) at POSTECH, where I am fortunate to be advised by [Sangdon Park](https://sangdon.github.io/). My current research interests largely lie in the safe and trustworthy deployment of large language models.
 
 While pursuing an M.S. in Industrial Management and Engineering at the same university advised by [Minwoo Chae](https://sds.postech.ac.kr/), I have worked on a number of statistical data analysis projects applying Bayesian and computational statistics methodologies. I earned a B.S. in Statistics at Korea University.
 
