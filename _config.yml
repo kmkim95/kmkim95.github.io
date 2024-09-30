@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyungmin Kim"
 title_separator          : "-"
 name                     : &name "Kyungmin Kim"
-description              : &description "M.S./Ph.D. in Graduate School of AI"
+description              : &description "M.S./Ph.D. in the Graduate School of AI"
 url                      : https://kmkim95.github.io/kyungminkim.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kmkim95/kyungminkim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kyungmin Kim"
   avatar           : "profile.png"
-  bio              : "M.S./Ph.D. Student in Graduate School of AI @ POSTECH"
+  bio              : "M.S./Ph.D. Student in the Graduate School of AI @ POSTECH"
   location         : "Pohang, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
