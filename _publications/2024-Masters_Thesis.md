@@ -5,7 +5,7 @@ permalink: /publication/2024-Masters_Thesis
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-29
 venue: 'Masters Thesis'
-link: 'https://postech.dcollection.net/public_resource/pdf/200000732576_20241004131320.pdf'
+link: 'https://oasis.postech.ac.kr/handle/2014.oak/123278'
 citation: '<b>Kyungmin Kim</b>.
 <br/><i>Masters Thesis.</i>, 2024'
 # doi: 10.1002/sim.8996
