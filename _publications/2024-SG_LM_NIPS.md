@@ -11,4 +11,4 @@ citation: 'Minjae Lee*, <b>Kyungmin Kim</b>*, Taesoo Kim, Sangdon Park.
 # doi: 10.1002/sim.8996
 ---
 * Roles involved: Problem formulation, literature review, algorithm design and proofs, experimental design, data labeling (50%), and full paper writing
-* Roles not involed: Code implementation (except for the one transforming a question-answer pair into a declarative form), data labeling (50%)
+* Roles not involed: Code implementation (except for transforming a question-answer pair into a declarative form), data labeling (50%)
