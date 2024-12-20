@@ -12,5 +12,5 @@ citation: 'Kihoon Son*, <b>Kyungmin Kim</b>*, Kyunghoon Hyun.
 doi: 10.1145/3491102.3517729
 ---
 
-* Roles involved: Seminars on basic information theory for UI researchers, problem formulation, algorithm design and its implementation (python), experimental design, paper writing (upto experiment section)
+* Roles involved: Seminars on basic information theory and Bayesian experimental design for UI researchers, problem formulation, algorithm design and its implementation (python), experimental design, paper writing (upto experiment section)
 * Roles uninvoled: User-interface (UI) design
