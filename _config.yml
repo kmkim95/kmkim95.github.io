@@ -86,7 +86,7 @@ author:
   location         : "Pohang, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=PnkT7tEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=O7m-xYgAAAAJ&hl=ko"
   email            : "kkm959595@postech.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
