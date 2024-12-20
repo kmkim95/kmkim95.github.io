@@ -11,3 +11,6 @@ citation: 'Kihoon Son*, <b>Kyungmin Kim</b>*, Kyunghoon Hyun.
 <i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems.</i> 11(2) pp. 1-16, 2022'
 doi: 10.1145/3491102.3517729
 ---
+
+* Roles involved: Seminars on basic information theory for UI researchers, problem formulation, algorithm design and its implementation (python), experimental design, paper writing (upto experiment section)
+* Roles uninvoled: User-interface (UI) design
