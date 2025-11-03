@@ -15,7 +15,7 @@ While pursuing an M.S. in Industrial and Management Engineering at the same univ
 
 
 ### Interests
-- Trustworthy Machine Learning [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [NeurIPS24](https://openreview.net/pdf?id=jHU3tpL5Of); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
-- Large Language Models [[NeurIPS24](https://openreview.net/pdf?id=jHU3tpL5Of); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
+- Trustworthy Machine Learning [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [NeurIPS24](https://openreview.net/forum?id=jHU3tpL5Of&referrer=%5Bthe%20profile%20of%20Kyungmin%20Kim%5D(%2Fprofile%3Fid%3D~Kyungmin_Kim3); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
+- Large Language Models [[NeurIPS24](https://openreview.net/forum?id=jHU3tpL5Of&referrer=%5Bthe%20profile%20of%20Kyungmin%20Kim%5D(%2Fprofile%3Fid%3D~Kyungmin_Kim3); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
 - Statistical Data Analysis [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
 - Computational Interaction [[CHI22](https://dl.acm.org/doi/10.1145/3491102.3517729)]
