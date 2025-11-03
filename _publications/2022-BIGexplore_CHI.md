@@ -8,7 +8,7 @@ venue: 'Proceedings of the 2022 CHI Conference on Human Factors in Computing Sys
 link: 'https://dl.acm.org/doi/abs/10.1145/3491102.3517729'
 citation: 'Kihoon Son*, <b>Kyungmin Kim</b>*, Kyunghoon Hyun.
 <br/>
-<i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems.</i> 11(2) pp. 1-16, 2022'
+<i>Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems</i>, 2022'
 doi: 10.1145/3491102.3517729
 ---
 * Roles involved: Seminars on basic information theory and Bayesian experimental design for UI researchers, problem formulation, literature review, algorithm design and implementation (Python), experimental design, and paper writing up to the experiment section
