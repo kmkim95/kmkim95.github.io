@@ -3,7 +3,7 @@ title: "ChronoBias: A Benchmark for Evaluating Temporal Group Bias in the Time-s
 collection: publications
 permalink: /publication/2025-ChronoBias
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-11-06
+date: 2025-11-06
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP Findings 2025)'
 link: 'https://aclanthology.org/2025.findings-emnlp.405/'
 citation: '<b>Kyungmin Kim</b>, Youngbin Choi, Hyounghun Kim, Dongwoo Kim, Sangdon Park.
