@@ -1,7 +1,7 @@
 ---
 title: "ChronoBias: A Benchmark for Evaluating Temporal Group Bias in the Time-sensitive Knowledge of Large Language Models"
 collection: publications
-permalink: /publication/2024-SG_LM
+permalink: /publication/2025-ChronoBias
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-06
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP Findings 2025)'
