@@ -7,7 +7,7 @@ date: 2024-12-09
 venue: 'Advances in Neural Information Processing Systems 38 (NeurIPS 2024)'
 link: 'https://openreview.net/forum?id=jHU3tpL5Of&referrer=%5Bthe%20profile%20of%20Kyungmin%20Kim%5D(%2Fprofile%3Fid%3D~Kyungmin_Kim3'
 citation: 'Minjae Lee*, <b>Kyungmin Kim</b>*, Taesoo Kim, Sangdon Park.
-<br/><i>Advances in Neural Information Processing Systems 38 (<span style="color:cyan">spotlight</span>).</i>, 2024'
+<br/><i>Advances in Neural Information Processing Systems 38 (<span style="color:cyan">spotlight</span>)</i>, 2024'
 # doi: 10.1002/sim.8996
 ---
 * Roles involved: Problem formulation, literature review, algorithm design and proofs, experimental design, data labeling (70%), and full paper writing
