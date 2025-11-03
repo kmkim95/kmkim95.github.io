@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a second-year M.S./Ph.D. student in the [Graduate School of AI](https://ai.postech.ac.kr/) and a member of the [Machine Learning Lab](https://ml.postech.ac.kr/) at POSTECH, where I am fortunate to be advised by [Sangdon Park](https://sangdon.github.io/). My current research interests largely lie in the safe and trustworthy deployment of large language models.
+I am a second-year M.S./Ph.D. student in the [Graduate School of AI](https://ai.postech.ac.kr/) and a member of the [Machine Learning Lab](https://ml.postech.ac.kr/) at POSTECH, where I am fortunate to be advised by [Sangdon Park](https://sangdon.github.io/). My current research interests largely lie in the safe and trustworthy deployment of large language models. 
 
 While pursuing an M.S. in Industrial and Management Engineering at the same university advised by [Minwoo Chae](https://sds.postech.ac.kr/), I worked on a number of statistical data analysis projects in the industry domain, applying Bayesian and computational statistics methodologies. Prior to joining POSTECH, I also worked as a student researcher in the [Design Informatics Lab](https://designinformatics.hanyang.ac.kr/) at Hanyang University, where I developed a computational interaction algorithm that assists users in efficiently searching the design space, generalizing the concept of Bayesian information gain. I earned a B.E. in Statistics at Korea University.
 
 
 ### Interests
-- Trustworthy Machine Learning
-- Large Language Models
-- Statistical Data Analysis
-- Computational Interaction
+- Trustworthy Machine Learning [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [NeurIPS24](https://openreview.net/pdf?id=jHU3tpL5Of); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
+- Large Language Models [[NeurIPS24](https://openreview.net/pdf?id=jHU3tpL5Of); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
+- Statistical Data Analysis [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/)]
+- Computational Interaction [[CHI22](https://dl.acm.org/doi/10.1145/3491102.3517729)]
