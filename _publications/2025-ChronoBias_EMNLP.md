@@ -1,5 +1,5 @@
 ---
-title: "ChronoBias: A Benchmark for Evaluating Temporal Group Bias in the Time-sensitive Knowledge of Large Language Models"
+title: "ChronoBias: A Benchmark for Evaluating Time-conditional Group Bias in the Time-sensitive Knowledge of Large Language Models"
 collection: publications
 permalink: /publication/2025-ChronoBias
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
