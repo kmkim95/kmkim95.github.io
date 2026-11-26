@@ -5,7 +5,7 @@ permalink: /publication/2024-SG_LM
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-09
 venue: 'Advances in Neural Information Processing Systems 38 (NeurIPS 2024)'
-link: 'https://openreview.net/forum?id=jHU3tpL5Of&referrer=%5Bthe%20profile%20of%20Kyungmin%20Kim%5D(%2Fprofile%3Fid%3D~Kyungmin_Kim3'
+link: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/5a6815122f533193a022cbc41786c1cc-Paper-Conference.pdf'
 citation: 'Minjae Lee*, <b>Kyungmin Kim</b>*, Taesoo Kim, Sangdon Park.
 <br/><i>Advances in Neural Information Processing Systems 38 (<span style="color:cyan">spotlight</span>)</i>, 2024'
 # doi: 10.1002/sim.8996
