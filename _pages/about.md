@@ -16,6 +16,7 @@ While pursuing an M.S. in Industrial and Management Engineering at the same univ
 
 ### Interests
 - Trustworthy Machine Learning [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [NeurIPS24](https://openreview.net/forum?id=glfYOAzh2f); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/); [ICLR26](https://openreview.net/pdf?id=RMWcdp5IUy); [EMNLP26](https://aclanthology.org/2026.findings-emnlp.2207/)]
+- Agent Post-training [[EMNLP26](https://aclanthology.org/2026.findings-emnlp.2207/)]
 - Large Language Models [[NeurIPS24](https://openreview.net/forum?id=glfYOAzh2f); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/); [EMNLP26](https://aclanthology.org/2026.findings-emnlp.2207/)]
 - Statistical Data Analysis [[M.S. Thesis](https://poasis.postech.ac.kr/handle/2014.oak/123278); [EMNLP25](https://aclanthology.org/2025.findings-emnlp.405/); [EMNLP26](https://aclanthology.org/2026.findings-emnlp.2207/)]
 - Computational Interaction [[CHI22](https://dl.acm.org/doi/10.1145/3491102.3517729); [ICLR26](https://openreview.net/pdf?id=RMWcdp5IUy)]
