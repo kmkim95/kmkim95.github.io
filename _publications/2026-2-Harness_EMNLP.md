@@ -10,5 +10,5 @@ citation: '<b>Kyungmin Kim</b>*, Youngbin Choi*, Seoyeon Lee, Suhyeon Jun, Dongw
 <br/><i>Findings of the Association for Computational Linguistics: EMNLP 2026</i>, 2026'
 # doi: 10.1002/sim.8996
 ---
-* Roles involved: Problem formulation, literature review, experimental design, initial code repository design, code implementation (WebShop), and full paper writing
-* Roles involved: Code implementation (ALFWorld)
+* Roles involved: Problem formulation, literature review, experimental design, initial code repository design, code implementation (*WebShop*), and full paper writing
+* Roles involved: Code implementation (*ALFWorld*)
